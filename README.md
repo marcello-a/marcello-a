@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcello
+
+![GitHub Stats](https://marcello-a-github-readme-stats.app/api?username=marcello-a&show_icons=true&theme=radical)
+![Top Langs](https://marcello-a-github-readme-stats.app/api/top-langs/?username=marcello-a&layout=compact&theme=radical)
+
 
 <!--
 **marcello-a/marcello-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
