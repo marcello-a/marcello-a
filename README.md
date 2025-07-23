@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Marcello
 
-![GitHub Stats](https://marcello-a-github-readme-stats.app/api?username=marcello-a&show_icons=true&theme=radical)
-![Top Langs](https://marcello-a-github-readme-stats.app/api/top-langs/?username=marcello-a&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-marcello-a.vercel.app/api?username=marcello-a&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-marcello-a.vercel.app/api/top-langs/?username=marcello-a&layout=compact&theme=radical)
+
 
 
 <!--
