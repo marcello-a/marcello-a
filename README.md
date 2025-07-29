@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Marcello
 
-![GitHub Stats](https://github-readme-stats-marcello-a.vercel.app/api?username=marcello-a&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-marcello-a.vercel.app/api/top-langs/?username=marcello-a&layout=compact&theme=radical)
 
+## 💛 Things I Love
+
+- 💻 Coding ❤️
+- 🎨 Designing clean, intuitive **user experiences**  
+- 🛠️ Building tools that **make people's lives easier**  
+- 🌐 Exploring **IoT** and creating smart automations  
+- 🚀 Learning new things – especially around **frontend, design, IoT & DevOps**  
+- ✨ Turning ideas into **elegant software**  
+- 🤝 Working with **people who care**
 
 
 <!--
