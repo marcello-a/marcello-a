@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Marcello
 
+<!--
 ![Top Langs](https://github-readme-stats-marcello-a.vercel.app/api/top-langs/?username=marcello-a&layout=compact&theme=radical)
-
+-->
 ## 💛 Things I Love
 
 - 💻 Coding ❤️
