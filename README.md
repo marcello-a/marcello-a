@@ -8,8 +8,8 @@
 - 👻 [**Planchette**](https://github.com/marcello-a/Planchette) – Run many AI coding agents at once and always know which one needs you
 - 🖼️ [**Wallart Configurator**](https://www.myposter.de/configurator-photo-frame/) – Configurator for custom photo frame wall art
 - 🔊 [**Schedule Your Zones**](https://scheduleyourzones.com/) – Automatic scheduling audio for multi-zone amplifiers
-- 💡 [**Klartext Medientechnik**](https://klartext-medientechnik.de/) – Consulting website
 - ⚡ [**Elektroakustik Alte**](https://elektroakustik-alte.de/) – Homepage for business
+- 💡 [**Klartext Medientechnik**](https://klartext-medientechnik.de/) – Consulting website
 
 ## 💛 Things I Love
 
